@@ -1,6 +1,6 @@
 ## Hello! I'm Maurício and welcome to my GitHub! 👋
 
-- 🖥️ I'm working with Business Intelligence and Data Science solutions with Python. 
+- 🖥️ I'm working on Business Intelligence and Data Science solutions with Python. 
 - 🌱 I’m currently learning Neural Networks, Machine Learning, Deep Learning, Nonlinear Control, Fuzzy Logic and OOP.
 - 🛠️ My main programming languages are Python, C/C++, Matlab, SQL and VBA. 
 
